@@ -2,5 +2,6 @@
 
 - Teclas de Atalho
 - Code Snippets
+- Código Limpo com Productivity Power Tools
 
 Em breve novas dicas.
