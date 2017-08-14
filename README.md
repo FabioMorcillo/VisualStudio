@@ -1,6 +1,6 @@
 # VisualStudio - Dicas para melhoria de produtividade
 
-- Atalhos
+- Teclas de Atalho
 - Code Snippets
 
 Em breve novas dicas.
